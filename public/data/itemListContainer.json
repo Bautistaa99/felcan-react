@@ -1,0 +1,28 @@
+
+{"results":[
+  {
+      "id":1,
+      "Brand":"Royal Canin",
+      "Age":"Puppy",
+      "Size":"Mediano y Grandes",
+      "Weight":10,
+      "Price":5000,
+      "src": "../../imagenes/bolsasAlimento/royalcanin.png"
+  },{
+      "id":2,
+      "Brand":"Whiskas",
+      "Age":"Senior",
+      "Size":"Mediano y Grandes",
+      "Weight":5,
+      "Price":3000,
+      "src": "../../imagenes/bolsasAlimento/whiskas.jpg"
+  },{
+      "id":3,
+      "Brand":"Pedigree",
+      "Age":"Aulto",
+      "Size":"Mediano y Grandes",
+      "Weight":15,
+      "Price":6000,
+      "src": "../../imagenes/bolsasAlimento/pedigree.jpg"
+  }
+]}
